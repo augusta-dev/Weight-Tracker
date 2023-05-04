@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar{
+    /* left: 9.14%; */
+    /* right: 69.76%; */
+    top: 4%;
+    bottom: 4%;
+}
