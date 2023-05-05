@@ -13,7 +13,7 @@ const Navbar = () => {
 	];
 
 	return (
-		<nav className="bg-gray-50 sticky w-full lg:h-16 h-14 top-0 left-0 flex">
+		<nav className="bg-gray-50 sticky w-full lg:h-16 h-14 top-0 left-0 flex z-10">
 			<img
 				src={logoImg}
 				alt=""

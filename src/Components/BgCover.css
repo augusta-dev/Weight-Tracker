@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-image {
+    background-image: url("../assets/_8a9c6639-2915-4d8b-a8d3-0db2cc4e9675.jpg");
+    height: calc(100vh - 3.5rem);
+}
